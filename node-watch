@@ -1,0 +1,3 @@
+#!/bin/bash
+
+watch -d node $1/main.js
