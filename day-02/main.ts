@@ -1,5 +1,4 @@
 import * as fs from "fs"
-import { parseCommandLine } from "typescript"
 
 interface Direction {
   command: "forward" | "up" | "down"
